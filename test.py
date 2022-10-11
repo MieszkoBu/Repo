@@ -1,1 +1,1 @@
-import src/main.py
+from src import main
